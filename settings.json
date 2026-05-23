@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Anticheat",
     "password": "",
     "type": "offline"
   },
@@ -28,7 +28,7 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": true,
+      "repeat": true
     },
     "chat-log": true,
     "auto-reconnect": true,
